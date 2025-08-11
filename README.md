@@ -33,7 +33,7 @@ src/
 ## Run tests
 
 ```bash
-mvn test
+mvn verify
 ```
 
 ## Reports
